@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E455963524F3099D003510A8 /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = E455963424F3099D003510A8 /* test.swift */; };
-		E455963624F3099D003510A8 /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = E455963424F3099D003510A8 /* test.swift */; };
 		E4BFE1E224F303E1003E2BE3 /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BFE1E124F303E1003E2BE3 /* Tests_iOS.swift */; };
 		E4BFE1ED24F303E1003E2BE3 /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BFE1EC24F303E1003E2BE3 /* Tests_macOS.swift */; };
 		E4BFE1EF24F303E1003E2BE3 /* Main_EncounterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BFE1C624F303E0003E2BE3 /* Main_EncounterApp.swift */; };
@@ -37,7 +35,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E455963424F3099D003510A8 /* test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
 		E4BFE1C624F303E0003E2BE3 /* Main_EncounterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main_EncounterApp.swift; sourceTree = "<group>"; };
 		E4BFE1C724F303E0003E2BE3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E4BFE1C824F303E0003E2BE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -106,7 +103,6 @@
 				E4BFE1C624F303E0003E2BE3 /* Main_EncounterApp.swift */,
 				E4BFE1C724F303E0003E2BE3 /* ContentView.swift */,
 				E4BFE1C824F303E0003E2BE3 /* Assets.xcassets */,
-				E455963424F3099D003510A8 /* test.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -315,7 +311,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4BFE1F124F303E1003E2BE3 /* ContentView.swift in Sources */,
-				E455963524F3099D003510A8 /* test.swift in Sources */,
 				E4BFE1EF24F303E1003E2BE3 /* Main_EncounterApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -325,7 +320,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4BFE1F224F303E1003E2BE3 /* ContentView.swift in Sources */,
-				E455963624F3099D003510A8 /* test.swift in Sources */,
 				E4BFE1F024F303E1003E2BE3 /* Main_EncounterApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
